@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorInputBackground">#FFF8E1</color> <!-- màu nền vùng nhập -->
+    <color name="color1">#E3F2FD</color> <!-- xanh nhạt -->
+    <color name="color2">#FFCDD2</color> <!-- đỏ nhạt -->
+    <color name="color3">#C8E6C9</color> <!-- xanh lá nhạt -->
+    <color name="color4">#F0F4C3</color> <!-- vàng nhạt -->
+    <color name="color5">#D1C4E9</color> <!-- tím nhạt -->
+    <color name="color6">#B3E5FC</color> <!-- xanh biển nhạt -->
+    <color name="color7">#FFE0B2</color> <!-- cam nhạt -->
+    <color name="color8">#F8BBD0</color> <!-- hồng nhạt -->
+    <color name="color9">#DCEDC8</color> <!-- xanh chanh -->
+    <color name="color10">#FFECB3</color> <!-- vàng cam -->
+    <color name="color11">#B2DFDB</color> <!-- teal nhạt -->
+    <color name="color12">#D7CCC8</color> <!-- nâu xám nhạt -->
+    <color name="color13">#FFCCBC</color> <!-- cam nhạt -->
+    <color name="color14">#F5F5F5</color> <!-- xám sáng -->
+    <color name="color15">#CFD8DC</color> <!-- xanh xám -->
+    <color name="color16">#E1BEE7</color> <!-- tím pastel -->
+    <color name="color17">#FFAB91</color> <!-- cam đào -->
+    <color name="blue6">#2196F3</color>   <!-- Blue 500 -->
+
+    <color name="color18">#C5CAE9</color> <!-- xanh lam pastel -->
+    <color name="color19">#F8F9FA</color> <!-- trắng xám -->
+    <color name="color20">#E6EE9C</color> <!-- xanh chuối non -->
+
+</resources>
